@@ -1,3 +1,5 @@
+/// <reference types="google.maps" />
+
 export interface Mappable {
   location: {
     lat: number;
